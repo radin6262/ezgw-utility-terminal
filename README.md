@@ -29,4 +29,4 @@ This utility complements the GUI version, providing a **lightweight text-based i
 Install dependencies with:
 
 ```bash
-pip install gitpython
+pip install gitpython pyside6
