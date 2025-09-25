@@ -30,3 +30,8 @@ Install dependencies with:
 
 ```bash
 pip install gitpython pyside6
+```
+Run with windows:
+```bash
+py main.py
+```
